@@ -4,12 +4,6 @@
 
 This project studies the **stochastic modeling of interbank contagion** and systemic risk in financial networks. It is an academic research project conducted at **CY Tech**
 
-## 🎓 Academic Context
-
-- **Institution**: CY Tech - Ecole d'Ingénieur
-- **Program**: 2nd Year Engineering 
-- **Specialization**: Applied Mathematics for Finance 
-- **Project Supervisor**: Irina Kortchemski (iva@cy-tech.fr)
 
 ## 🎯 Project Objectives
 
