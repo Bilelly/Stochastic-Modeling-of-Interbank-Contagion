@@ -2,13 +2,13 @@
 
 ## 📋 Project Overview
 
-This project studies the **stochastic modeling of interbank contagion** and systemic risk in financial networks. It is an academic research project conducted at **CY Tech** (Ecole d'Ingénieur CY TECH), as part of the 2nd year engineering program in Applied Mathematics for Finance.
+This project studies the **stochastic modeling of interbank contagion** and systemic risk in financial networks. It is an academic research project conducted at **CY Tech**
 
 ## 🎓 Academic Context
 
 - **Institution**: CY Tech - Ecole d'Ingénieur
-- **Program**: 2nd Year Engineering (Année d'Ingénieur 2)
-- **Specialization**: Applied Mathematics for Finance (Mathématiques Appliquées à la Finance)
+- **Program**: 2nd Year Engineering 
+- **Specialization**: Applied Mathematics for Finance 
 - **Project Supervisor**: Irina Kortchemski (iva@cy-tech.fr)
 
 ## 🎯 Project Objectives
@@ -31,17 +31,6 @@ The project employs:
 
 - **`Stochastic_Modeling.ipynb`**: Jupyter notebook containing the computational implementation, data analysis, simulations, and visualizations of the stochastic models
 - **`Research_Paper.pdf`**: Detailed research paper documenting the theoretical framework, methodology, results, and conclusions
-
-## 🛠️ Technologies & Libraries
-
-- **Python 3.x**
-- **Jupyter Notebook**
-- Key libraries:
-  - `NumPy` - Numerical computing and matrix operations
-  - `Pandas` - Data manipulation and analysis
-  - `Matplotlib` / `Seaborn` - Data visualization
-  - `SciPy` - Scientific computing and statistical analysis
-  - `NetworkX` - Network analysis and graph operations
 
 ## 🚀 How to Use
 
