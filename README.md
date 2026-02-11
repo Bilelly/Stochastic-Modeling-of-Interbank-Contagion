@@ -32,27 +32,6 @@ The project employs:
 - **`Stochastic_Modeling.ipynb`**: Jupyter notebook containing the computational implementation, data analysis, simulations, and visualizations of the stochastic models
 - **`Research_Paper.pdf`**: Detailed research paper documenting the theoretical framework, methodology, results, and conclusions
 
-## 🚀 How to Use
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Bilelly/Stochastic-Modeling-of-Interbank-Contagion.git
-   cd Stochastic-Modeling-of-Interbank-Contagion
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   pip install numpy pandas matplotlib seaborn scipy networkx jupyter
-   ```
-
-3. **Run the notebook**:
-   ```bash
-   jupyter notebook Stochastic_Modeling.ipynb
-   ```
-
-4. **Review the research paper**:
-   - Open `Research_Paper.pdf` for the complete theoretical and empirical analysis
-
 ## 🔍 Key Results
 
 The analysis demonstrates:
