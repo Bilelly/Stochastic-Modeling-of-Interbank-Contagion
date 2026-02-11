@@ -1,5 +1,12 @@
 # Stochastic Modeling of Interbank Contagion
 
+## 📧 Contact
+
+**Project Supervisor**: Irina Kortchemski  
+**Email**: iva@cy-tech.fr  
+**Author**: Bilal Sayoud  
+**GitHub**: [Bilelly](https://github.com/Bilelly)
+
 ## 📋 Project Overview
 
 This project studies the **stochastic modeling of interbank contagion** and systemic risk in financial networks. It is an academic research project conducted at **CY Tech**
@@ -40,18 +47,3 @@ The analysis demonstrates:
 - Stochastic processes and probability theory
 - Financial network analysis and contagion mechanisms
 
-## 📧 Contact
-
-**Project Supervisor**: Irina Kortchemski  
-**Email**: iva@cy-tech.fr  
-**Author**: Bilal Sayoud  
-**GitHub**: [Bilelly](https://github.com/Bilelly)
-
-## 📄 License
-
-This project is an academic work conducted at CY Tech.
-
----
-
-*Last Updated: 2026-02-11 19:16:33*  
-*CY Tech Engineering Program - Applied Mathematics for Finance*
